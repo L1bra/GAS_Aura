@@ -24,6 +24,5 @@ UAttributeSet* AAuraCharacterBase::GetAttributeSet() const
 
 void AAuraCharacterBase::BeginPlay()
 {
-	Super::BeginPlay();
-	
+	Super::BeginPlay();	
 }
