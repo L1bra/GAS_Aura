@@ -19,7 +19,4 @@ public:
 
 	void HighlightActor() override;
 	void UnHighlightActor() override;
-public:
-	UPROPERTY(BlueprintReadOnly)
-	bool bHighlighted = false;
 };
